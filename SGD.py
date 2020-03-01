@@ -39,3 +39,4 @@ plt.scatter(x,y)
 plt.plot([min(x), max(x)], [min(Y), max(Y)], color='red') # predicted
 plt.show()
 
+
