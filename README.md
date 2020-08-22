@@ -1,2 +1,3 @@
 # Basic-ML-Implementation
-	Stochastic Gradient Descent in Linear Regression
+
+Implementation of different ML and DL algorithms from scratch in python.
